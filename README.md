@@ -1,6 +1,6 @@
 # Dani Texturepack
 ## Version 1.0.0
-Requires Optifine
+#### Requires Optifine
 
 A texture pack that i made cause im hella bored.
 
@@ -12,11 +12,14 @@ A texture pack that i made cause im hella bored.
 
 
 
-Installation
+### Installation
 
     Optifine
     1. Go to [Optifine Website](https://www.optifine.net/home) and download Optifine installer
     2. Install Optifine
+
+
+
 
     Texturepack
     1. Download [DaniPack.zip](https://github.com/mariyt10/DaniTexturepack/raw/main/DaniPack.zip)
