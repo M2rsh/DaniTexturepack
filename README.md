@@ -19,8 +19,6 @@ A texture pack that i made cause im hella bored.
     2. Install Optifine
 
 
-
-
     Texturepack
     1. Download [DaniPack.zip](https://github.com/mariyt10/DaniTexturepack/raw/main/DaniPack.zip)
     2. Move DaniPack.zip from Downloads to %appdata%/.minecraft/resourcepacks
