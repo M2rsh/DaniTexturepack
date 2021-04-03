@@ -1,8 +1,7 @@
 # Dani Texturepack
 ## Version 1.0.0
-#### Requires Optifine
 ###### A texture pack that i made cause im hella bored.
-
+Requires Optifine
 [Dani](https://www.youtube.com/channel/UCIabPXjvT5BVTxRDPCBBOOQ) - haha yes games
 
 [Evan King](https://www.youtube.com/channel/UCT1ZkP03V18LmOj8zbyP-Dw) - Music discs
